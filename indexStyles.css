@@ -5,25 +5,53 @@ body{
     font-weight: 200;
     line-height: normal;
     letter-spacing: 0.5px;
-    color: #000;
+    color:black;
     background-color: #fff;
 
 }
+.site-header{
+    background-color: rgb(85, 221, 153);
+    border-style: none;
+    padding: 20px;
+}
+body header nav {
+    display: inline-block;
+    float: right;
+    padding-top: 50px;
+    
+    
+
+}
+.hero-content{
+    text-align: center;
+    padding: 10px;
+}
+.hero-btn{
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: blue;
+    font-size: 20px;
+    font-family: 'Arial Black', Gadget, sans-serif;
+}
 .sitenav-list{
     list-style: none;
-    margin-right: 30px;
-    padding-right: 20px;
+    display: inline;
+    
+    
 }
 .sitenav-item1{
     display: inline;
-   
+
+}
 
 .sitenav-link{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         text-decoration: none;
         text-transform: uppercase;
         color: black;
-        display: inline;
+        margin-left: 30px;
+       
         
 }
 
