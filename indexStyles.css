@@ -1,0 +1,82 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #000;
+    background-color: #fff;
+
+}
+.sitenav-list{
+    list-style: none;
+    margin-right: 30px;
+    padding-right: 20px;
+}
+.sitenav-item1{
+    display: inline;
+   
+
+.sitenav-link{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-decoration: none;
+        text-transform: uppercase;
+        color: black;
+        display: inline;
+        
+}
+
+}
+.hero{
+    background-color: skyblue;
+}
+.hero-heading{
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.btn{
+    text-decoration: none;
+}
+.hero-btn{
+    color: #fff;
+}
+.news-heading{
+    font-size: 32px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+.news-list{
+    list-style: none;
+}
+.news-item{
+    list-style: none;
+}
+section ul {
+    list-style: none;
+}
+section ul li a {
+    text-decoration: none;
+    color: #000;
+}
+footer{
+    background-color: skyblue;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer nav ul li a{
+    text-decoration: none;
+    color: #222;
+    
+}
+footer nav ul{
+    list-style: none;
+}
+.news-item-img{
+    height: 200px;
+    width: 400px;
+    object-fit: cover;
+
+}
+aside{
+   background-color: green;
+}
